@@ -1,8 +1,6 @@
-package TestNGtests;
-
 /**
  * Created by Marchenko on 31.03.2017.
  */
-public class ConfigPage {
+public class ConfigePage {
     static String baseUrl= "http://rozetka.com.ua/ua/";
 }
