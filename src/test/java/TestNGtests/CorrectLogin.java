@@ -14,5 +14,6 @@ public class CorrectLogin {
     @Test
     public void login(){
         open("/");
+        System.out.println("ok");
     }
 }
